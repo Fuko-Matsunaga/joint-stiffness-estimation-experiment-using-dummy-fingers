@@ -1,1 +1,1 @@
-# joint-stiffness-estimation-experiment-using-dummy-fingers
+# Joint Stiffness Estimation Experiment using Dummy Fingers
