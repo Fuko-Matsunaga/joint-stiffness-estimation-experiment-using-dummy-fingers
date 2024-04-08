@@ -1,1 +1,4 @@
-
+Column Name
+stiffness: target stiffness value (Nmm/deg)
+p0~p16: joint angle at each pressure value (deg)
+theta0: resting angle (deg)
