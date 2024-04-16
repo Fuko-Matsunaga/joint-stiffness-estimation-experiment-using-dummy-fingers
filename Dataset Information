@@ -1,11 +1,16 @@
 The datasets are in folders for each dummy finger size and contained in CSV files for each joint.
+
 - medium size folder: four folders containing datasets measured in the experiments with the medium-sized dummy finger
   - medium dataset: the model training and test datasets were created by splitting this dataset
   - training dataset: dataset used to train the models (part of the medium dataset)
   - test dataset ("M-Test" in the article): dataset used to test the models (part of the medium dataset)
   - high stiffness dataset ("H-Prediction" in the article): dataset used for generality validation
+
 - small size folder ("S-Prediction" in the article): dataset measured in the experiment with the small-sized dummy finger is contained
+
 - large size folder ("L-Prediction" in the article): dataset measured in the experiment with the large-sized dummy finger is contained
+
+
 
 Column Name
 stiffness: target stiffness value (Nmm/deg)
