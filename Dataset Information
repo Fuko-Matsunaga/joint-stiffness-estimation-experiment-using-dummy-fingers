@@ -1,7 +1,7 @@
 Column Name
 stiffness: target stiffness value (Nmm/deg)
-p0 ~ d0: joint angle at each pressure value (deg)
-  - p0 ~ p70: the joint angles measured at 0 ~ 70 kPa of pressurization
+p0 - d0: joint angle at each pressure value (deg)
+  - p0 - p70: the joint angles measured at 0 - 70 kPa of pressurization
   - max80: the joint angle measured at a maximum air pressure of 80 kPa
-  - d70 ~ d0: the joint angles measured at 70 ~ 0kPa of depressurization
+  - d70 - d0: the joint angles measured at 70 - 0kPa of depressurization
 theta0: resting angle (deg)
