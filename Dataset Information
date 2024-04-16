@@ -7,5 +7,6 @@ p0 - d0: joint angle at each pressure value (deg)
 theta0: resting angle (deg)
 
 The datasets are in folders for each dummy finger size
-- small size and large size folders: datasets measured in the experiments with the small and large-sized dummy fingers in CSV files by joint are contained
-- medium size folder: training dataset, test dataset and high stiffness folders are contained
+- small size folder ('S-Prediction' in the article): dataset measured in the experiment with the small-sized dummy finger in CSV files by joint is contained
+- large size folder ('L-Prediction' in the article): dataset measured in the experiment with the large-sized dummy finger in CSV files by joint is contained
+- medium size folder: training dataset, test dataset ('M-Test' in the article) and high stiffness ('H-Prediction' in the article) folders are contained
