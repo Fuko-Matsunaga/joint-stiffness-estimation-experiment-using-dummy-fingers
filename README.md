@@ -8,3 +8,5 @@ Dataset infomation are detailed on: Dataset Infomation (Include details of the c
 
 Please reference the following article when using the data from this repository:
 https://ieeexplore.ieee.org/document/10561603
+
+2025/1/21: Added resting angle values to each csv file.
